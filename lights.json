@@ -1,0 +1,662 @@
+[
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793968479_5372",
+        "group": "fam_Studio_1",
+        "rgb": {
+            "g": 29,
+            "b": 87,
+            "r": 8
+        },
+        "groupId": "grp_1793973686700_921",
+        "shapeParam": 24.0,
+        "intensity": 8.5,
+        "radius": 4.0,
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 127.77
+        },
+        "creator": "JumpyAnt1994",
+        "heading": 127.77,
+        "familyId": "fam_Studio_1",
+        "offsetZ": -30.0,
+        "coords": {
+            "x": -3507.957,
+            "y": -4105.565,
+            "z": 951.136
+        }
+    },
+    {
+        "model": "none",
+        "invertDirection": false,
+        "nativeLight": false,
+        "renderDistance": 80.0,
+        "id": "light_1793970880_7602",
+        "group": "fam_Sol",
+        "rgb": {
+            "g": 29,
+            "b": 87,
+            "r": 8
+        },
+        "groupId": "grp_1793973686700_921",
+        "textureVariation": 0,
+        "intensity": 8.5,
+        "radius": 4.0,
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -80.85
+        },
+        "coords": {
+            "x": -3513.858,
+            "y": -4115.459,
+            "z": 950.645
+        },
+        "collision": false,
+        "heading": -80.85,
+        "familyId": "fam_Sol",
+        "offsetZ": 0.0,
+        "creator": "JumpyAnt1994",
+        "shapeParam": 24.0,
+        "shape": "cone"
+    },
+    {
+        "model": "none",
+        "invertDirection": false,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793970924_9839",
+        "group": "fam_Sol",
+        "rgb": {
+            "g": 29,
+            "b": 87,
+            "r": 8
+        },
+        "groupId": "grp_1793973686700_921",
+        "shapeParam": 24.0,
+        "intensity": 8.5,
+        "radius": 4.0,
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 101.7
+        },
+        "creator": "JumpyAnt1994",
+        "heading": 101.7,
+        "familyId": "fam_Sol",
+        "offsetZ": 0.0,
+        "coords": {
+            "x": -3511.465,
+            "y": -4113.04,
+            "z": 950.676
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793971470_2727",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 80.0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -10.8,
+            "y": 90.01,
+            "z": 180.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 180.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.839,
+            "y": -4104.909,
+            "z": 950.024
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793971990_7029",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 76.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -13.41,
+            "y": -89.99,
+            "z": -180.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -180.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3487.428,
+            "y": -4104.917,
+            "z": 950.015
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793972095_9458",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 0,
+            "r": 0,
+            "b": 0
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 15.0,
+        "intensity": 0.5,
+        "radius": 2.0,
+        "rotation": {
+            "x": -13.41,
+            "y": -89.99,
+            "z": -90.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -90.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.104,
+            "y": -4104.121,
+            "z": 950.022
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972318_7765",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 57.0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -17.6,
+            "y": 90.6,
+            "z": -90.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -90.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.103,
+            "y": -4102.555,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793972402_3543",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 120.0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -14.14,
+            "y": -90.94,
+            "z": -90.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -90.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.101,
+            "y": -4100.979,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793972458_3817",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 59.0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -10.8,
+            "y": 90.01,
+            "z": -90.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -90.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.102,
+            "y": -4099.403,
+            "z": 949.995
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793972596_8577",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 0,
+            "r": 0,
+            "b": 0
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 55.0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": -90.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -90.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.115,
+            "y": -4097.812,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972680_2686",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": 0.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 0.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3485.901,
+            "y": -4097.091,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972747_9570",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 68.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -24.86,
+            "y": -90.0,
+            "z": 0.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 0.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3487.503,
+            "y": -4097.096,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972851_3079",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": 0.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 0.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3489.068,
+            "y": -4097.091,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972879_2468",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": 0.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 0.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3490.655,
+            "y": -4097.069,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793972921_4984",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": 180.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 180.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3489.005,
+            "y": -4104.938,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793973003_7327",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": -180.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -180.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3490.591,
+            "y": -4104.933,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793973039_3913",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": -180.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": -180.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3492.173,
+            "y": -4104.927,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "xs_prop_arena_lights_tube_l_a",
+        "invertDirection": true,
+        "nativeLight": true,
+        "shape": "cone",
+        "id": "light_1793973067_5645",
+        "group": "fam_1793973807821_456",
+        "rgb": {
+            "g": 6,
+            "r": 28,
+            "b": 163
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 74.0,
+        "intensity": 1.0,
+        "radius": 3.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": 0.0
+        },
+        "creator": "FuzzyDuck8024",
+        "heading": 0.0,
+        "familyId": "fam_1793973807821_456",
+        "offsetZ": 0.05,
+        "coords": {
+            "x": -3492.242,
+            "y": -4097.086,
+            "z": 950.009
+        }
+    },
+    {
+        "model": "none",
+        "invertDirection": false,
+        "nativeLight": false,
+        "shape": "cone",
+        "id": "light_1793973242_7648",
+        "group": "grp_1793973745126_896",
+        "rgb": {
+            "g": 6,
+            "b": 163,
+            "r": 28
+        },
+        "groupId": "grp_1793973745126_896",
+        "shapeParam": 43.0,
+        "intensity": 0.5,
+        "radius": 5.0,
+        "rotation": {
+            "x": -20.0,
+            "y": 90.0,
+            "z": -88.81
+        },
+        "coords": {
+            "x": -3497.139,
+            "y": -4100.707,
+            "z": 952.005
+        },
+        "collision": false,
+        "heading": -88.81,
+        "familyId": "grp_1793973745126_896",
+        "castShadow": true,
+        "offsetZ": 0.0,
+        "textureVariation": 0,
+        "renderDistance": 80.0,
+        "creator": "FuzzyDuck8024"
+    },
+    {
+        "model": "none",
+        "invertDirection": false,
+        "nativeLight": true,
+        "renderDistance": 130.0,
+        "id": "light_1793979078_8348",
+        "rgb": {
+            "g": 255,
+            "b": 0,
+            "r": 226
+        },
+        "textureVariation": 0,
+        "intensity": 1.0,
+        "radius": 2.0,
+        "rotation": {
+            "x": -30.7,
+            "y": 168.43,
+            "z": -48.18
+        },
+        "creator": "FuzzyDuck8024",
+        "collision": false,
+        "heading": -48.18,
+        "castShadow": true,
+        "offsetZ": 0.0,
+        "shapeParam": 26.0,
+        "shape": "cone",
+        "coords": {
+            "x": -3489.507,
+            "y": -4100.32,
+            "z": 952.411
+        }
+    },
+    {
+        "model": "none",
+        "invertDirection": false,
+        "nativeLight": true,
+        "renderDistance": 130.0,
+        "id": "light_1793980498_9367",
+        "rgb": {
+            "g": 159,
+            "b": 212,
+            "r": 1
+        },
+        "textureVariation": 0,
+        "intensity": 1.5,
+        "radius": 2.0,
+        "rotation": {
+            "x": -30.7,
+            "y": 168.43,
+            "z": -112.93
+        },
+        "creator": "FuzzyDuck8024",
+        "collision": false,
+        "heading": -112.93,
+        "castShadow": true,
+        "offsetZ": 0.0,
+        "shapeParam": 23.0,
+        "shape": "cone",
+        "coords": {
+            "x": -3490.491,
+            "y": -4100.314,
+            "z": 952.114
+        }
+    }
+]

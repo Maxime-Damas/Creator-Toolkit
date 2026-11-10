@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "deslop": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/fivem/deslop/SKILL.md",
+      "computedHash": "90892984d8648a806e83d1c06fe4277f0c10ff1c6fe54828821ec6c05074d118"
+    },
+    "lua-best-practices": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/fivem/lua-best-practices/SKILL.md",
+      "computedHash": "a81dfe83c89babd34fe82e08c802b3c871155ebf1793d5217b78c70f52489816"
+    },
+    "ox-mode": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/ox-mode/SKILL.md",
+      "computedHash": "ea3fac3b091db077655b1cd906870f2e5c274ad37a669fd39bc59d651716ab96"
+    },
+    "resource-best-practices": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/fivem/resource-best-practices/SKILL.md",
+      "computedHash": "c42f7b30c9cdf4f3c54c2c04448bd4b92eba7268834234424528721db65a1a09"
+    },
+    "retro": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/retro/SKILL.md",
+      "computedHash": "455314e951459163549774ceb255ebda2a71171a20e441d127597aa7662e0e1d"
+    },
+    "typescript-best-practices": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/fivem/typescript-best-practices/SKILL.md",
+      "computedHash": "6fbe92dc6400130a6bec56c79199ee09d6663376b7bd3839e3c059a02a918e33"
+    },
+    "unslop": {
+      "source": "overextended/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/unslop/SKILL.md",
+      "computedHash": "8b4fa7a44554106f233aab39a6d69364b92a4d9a2552bbafc3ad677a945b8d7e"
+    }
+  }
+}
